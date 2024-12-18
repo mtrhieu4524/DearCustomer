@@ -24,9 +24,7 @@ npm run tauri dev
 
 ```bash
 npm run build
-npm run build
+
+# or build in tauri
+npm run tauri build
 ```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
